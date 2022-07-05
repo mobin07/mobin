@@ -29,8 +29,8 @@ In My free time I love to play , cricket ,watching movies and learning about new
 
 <br/>
 <p>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN3110&theme=tokyonight&hide_border=true&bg_color=0D1117">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rohan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN3110&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mobin07&theme=tokyonight&hide_border=true&bg_color=0D1117">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mobin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mobin07&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 

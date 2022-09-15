@@ -6,6 +6,11 @@
 <p align="left" font >I enjoy developing websites and web applications with a specialization in MERN stack.
 In My free time I love to play , cricket ,watching movies and learning about new technologies. </p>
 
+## Fun Fact 🎈:
+
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+
+<img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/>
 
 - 🔭 I’m currently working on *my existing Projects*
 

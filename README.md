@@ -25,6 +25,12 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammad-mobin-memon-9346b6208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinay Makade" height="30" width="40" /></a>
+    <a href="mailto:mmobinmemon@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a>
+<a href="https:https://mohammad-mobin-portfolio.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="krunal" />
+</a>
 </p>
 <h3 align="left">Contact with me:</h3>
 <a href="mailto:mmobinmemon@gmail.com">mmobinmemon@gmail.com</a>

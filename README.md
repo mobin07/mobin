@@ -27,7 +27,6 @@ In My free time I love to play , cricket ,watching movies and learning about new
     <a  href="https://www.linkedin.com/in/mohammad-mobin-memon-9346b6208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a>
     
     <a href="mailto:mmobinmemon@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>

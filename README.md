@@ -36,6 +36,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 
 </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobin07&label=Profile%20views&color=0e75b6&style=flat" alt="mobin07" /> </p>
 <h3 align="left">Contact with me:</h3>
 <a href="mailto:mmobinmemon@gmail.com">mmobinmemon@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>

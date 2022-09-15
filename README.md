@@ -24,15 +24,16 @@ In My free time I love to play , cricket ,watching movies and learning about new
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a  href="https://www.linkedin.com/in/mohammad-mobin-memon-9346b6208/" target="_blank">
+<a  href="https://www.linkedin.com/in/krunal-bhandekar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-    
-    <a href="mailto:mmobinmemon@gmail.com" target="_blank"> 
+<a href="mailto:krunalbhandekar10@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https:https://mohammad-mobin-portfolio.netlify.app/" target="_blank">
+<a href="https://krunalbhandekar-portfolio.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="krunal" />
+</a>
+
 </a>
 </p>
 <h3 align="left">Contact with me:</h3>

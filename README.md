@@ -45,8 +45,8 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <br>
 <br>
 <br>
-# 📊 GitHub Stats :
 
+# 📊 GitHub Stats :
 <p >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mobin07&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="mobin07" height="139"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin07&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="mobin07" height="139" />

@@ -15,7 +15,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 • 🔭 I’m constantly working on <b>learning new skills!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>MERN</b>.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/mohammad-mobin-memon-9346b6208/""><b>Mohammad Mobin</b></a><br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/mohammad-mobin-memon-9346b6208/"><b>Mohammad Mobin</b></a><br/>
 •⚡ Fun Fact <b>I love to read Mythic Fictional Novels</b>.<br/>
 
 </span>
@@ -23,7 +23,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <br>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Let's Connect :
 <p align="left">
 <a  href="https://www.linkedin.com/in/mohammad-mobin-memon-9346b6208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>

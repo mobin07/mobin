@@ -12,15 +12,16 @@ In My free time I love to play , cricket ,watching movies and learning about new
 
 <img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/>
 
-- 🔭 I’m currently working on *my existing Projects*
+• 🔭 I’m constantly working on <b>learning new skills!</b> <br/>
+• 👯 I’m looking to collaborate on cool project.<br/>
+• 💬 Ask me about <b>MERN</b>.<br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/mohammad-mobin-memon-9346b6208/""><b>Mohammad Mobin</b></a><br/>
+•⚡ Fun Fact <b>I love to read Mythic Fictional Novels</b>.<br/>
 
-- 🌱 I’m currently learning *React*
-
-- 👯 I’m looking to collaborate on *interesting projects*
-
-- 💬 Ask me about *React,express*
-
-- ⚡ Fun fact *I used to think coding was hard*
+</span>
+<br>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

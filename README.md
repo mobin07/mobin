@@ -33,11 +33,14 @@ In My free time I love to play , cricket ,watching movies and learning about new
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
 <a href="https://mohammad-mobin-portfolio.netlify.app/"  target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="krunal" />
+        <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="mobin" />
 </a>
 
 </a>
 </p>
+<br>
+<br>
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
